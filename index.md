@@ -8,4 +8,9 @@ layout: default
 <h2>Main Page</h2>
 
   Main content goes here.
-  $x_2[n]$
+  
+  
+  $$x_2[n]  \label{eq:x2} $$
+
+
+  \eqref{eq:x2}
