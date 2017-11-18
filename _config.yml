@@ -1,12 +1,12 @@
 # Site Settings
-title: Start Jekyll
-email: taniarascia@gmail.com
+title: Introduction to DSP
+email: ald@iastate.edu
 description: >
-  A guide to getting started with Jekyll.
+  EE 424 class web site.
 baseurl: "/ee424" # the subpath of your site, e.g. /blog
 url: "htttp://isucsp.github.io/ee424" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: taniarascia
-github_username:  taniarascia
+#twitter_username: taniarascia
+#github_username:  taniarascia
 # Build Settings
 sass:
   sass_dir: _sass
