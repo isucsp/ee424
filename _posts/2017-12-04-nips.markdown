@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Interesting NIPS 2017 tutorial"
+title:  "Interesting NIPS 2017 presentations"
 date:   2017-12-04 19:16:00
 categories: jekyll update
 ---
+
+<h3>Tutorial</h3>
 
 
 <div id="fb-root"></div>
@@ -28,4 +30,21 @@ Processing Systems</a> on Monday, December 4, 2017</blockquote></div>
 
 Remember to adjust the sound in the above video.
 
-23:15: discusses ResNet, then U-net.
+**23:15** discusses ResNet, then U-net.
+
+
+<h3>Ali Rahimi's presentation</h3>
+
+<div class="fb-video" 
+data-href="https://www.facebook.com/nipsfoundation/videos/1553236368100930/" 
+data-width="500" data-show-text="false"><blockquote 
+cite="https://www.facebook.com/nipsfoundation/videos/1553236368100930/" 
+class="fb-xfbml-parse-ignore"><a 
+href="https://www.facebook.com/nipsfoundation/videos/1553236368100930/">Keynote: 
+Brendan Frey, Why AI Will Make it Possible to Reprogr...</a><p>Brendan Frey 
+delivers the keynote Why AI Will Make it Possible to Reprogram the Human 
+Genome at NIPS 2017.</p>Posted by <a 
+href="https://www.facebook.com/nipsfoundation/">Neural Information 
+Processing Systems</a> on Tuesday, December 5, 2017</blockquote></div>
+
+**56:30** start of his talk.
