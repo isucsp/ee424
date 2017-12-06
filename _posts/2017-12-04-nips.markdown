@@ -35,16 +35,7 @@ Remember to adjust the sound in the above video.
 
 <h3>Ali Rahimi's presentation</h3>
 
-<div class="fb-video" 
-data-href="https://www.facebook.com/nipsfoundation/videos/1553236368100930/" 
-data-width="500" data-show-text="false"><blockquote 
-cite="https://www.facebook.com/nipsfoundation/videos/1553236368100930/" 
-class="fb-xfbml-parse-ignore"><a 
-href="https://www.facebook.com/nipsfoundation/videos/1553236368100930/">Keynote: 
-Brendan Frey, Why AI Will Make it Possible to Reprogr...</a><p>Brendan Frey 
-delivers the keynote Why AI Will Make it Possible to Reprogram the Human 
-Genome at NIPS 2017.</p>Posted by <a 
-href="https://www.facebook.com/nipsfoundation/">Neural Information 
-Processing Systems</a> on Tuesday, December 5, 2017</blockquote></div>
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/Qi1Yry33TQE" frameborder="0" 
+gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-**56:30** start of his talk.
