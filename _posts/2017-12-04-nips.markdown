@@ -30,7 +30,7 @@ Processing Systems</a> on Monday, December 4, 2017</blockquote></div>
 
 Remember to adjust the sound in the above video.
 
-**23:15** discusses ResNet, then U-net.
+**20:15** discusses ResNet, then U-net.
 
 
 <h3>Ali Rahimi's presentation</h3>
