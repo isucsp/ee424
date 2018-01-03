@@ -5,7 +5,10 @@
 layout: default
 ---
 
-### Spring 2018
+
+<h2>Main Page</h2>
+
+Spring 2018
 
 #### Modules
 {: .modules}
