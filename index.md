@@ -5,7 +5,7 @@
 layout: default
 ---
 
-## Spring 2018
+# Spring 2018
 
 ### Modules
 {: .modules}
