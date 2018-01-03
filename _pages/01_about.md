@@ -4,6 +4,15 @@ title: About
 permalink: /about/
 ---
 
+### Web pages
+
+* [Canvas][canvas]{:target="_blank"}
+   - will be used for class material and discussion; 
+* [Books on reserve][reserve]{:target="_blank"} in Parks Library;
+
+[reserve]:http://app.lib.iastate.edu.proxy.lib.iastate.edu/reserve/courselist.php?curCourseid=28581
+[canvas]: https://canvas.iastate.edu/
+
 ### Lectures
 
 * T R 11–12:20 in 1220 Howe
