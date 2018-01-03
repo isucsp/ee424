@@ -6,11 +6,10 @@ layout: default
 ---
 
 
-<h2>Main Page</h2>
+<h2>Spring 2018</h2>
 
-Spring 2018
 
-#### Modules
+### Modules
 {: .modules}
 
 * __Module 0:__ Review.
