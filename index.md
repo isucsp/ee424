@@ -5,9 +5,9 @@
 layout: default
 ---
 
-# Spring 2018
+### Spring 2018
 
-### Modules
+#### Modules
 {: .modules}
 
 * __Module 0:__ Review.
