@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Test post"
 date:   2017-11-17 00:10:45
 categories: jekyll update
 ---
@@ -24,6 +24,9 @@ $s \df \E$
   \eqref{eq:x2}
 
 
+\\(x_3[n]\\)
+
+
 Test
 {% highlight matlab %}
 a=5;
@@ -33,11 +36,7 @@ c=1;
 
 [a link](http://adogandzic.com){:target="_blank"}
 
-Check out [my page][mysite] for more info on how to get the most out of 
-Jekyll. File all bugs/feature requests at [Jekyll’s GitHub 
-repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s 
-dedicated Help repository][jekyll-help].
+Example page link [my page][mysite] or   [my page in new 
+tab][mysite]{:target="_blank"}. 
 
 [mysite]:      http://adogandzic.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
