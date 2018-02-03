@@ -23,6 +23,7 @@ layout: default
 How do you know this guy is insane?  
 
 <img src="graphics/cat.jpg" alt="cat cartoon" style="width: 400px;"/>
+
 Spectrum *not* symmetric, so cat must be imaginary.
 
 
