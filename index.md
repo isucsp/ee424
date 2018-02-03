@@ -15,4 +15,10 @@ layout: default
 * __Module 0:__ Review.
 * __Module 1:__ Sampling and Reconstruction
   - 
-  - 
+  -
+ 
+  
+  
+ <img src="graphics/cat.jpg" alt="cat cartoon" style="width: 300px;"/>
+ <img src="graphics/FTfamilycartoon.jpg" alt="FT family cartoon" 
+ style="width: 300px;"/>
