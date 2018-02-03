@@ -18,7 +18,15 @@ layout: default
   -
  
   
-  
- <img src="graphics/cat.jpg" alt="cat cartoon" style="width: 300px;"/>
+### Cartoons
+{: .cartoons}
+How do you know this guy is insane?  
+
+<img src="graphics/cat.jpg" alt="cat cartoon" style="width: 400px;"/>
+Spectrum *not* symmetric, so cat must be imaginary.
+
+
+<br>
+
  <img src="graphics/FTfamilycartoon.jpg" alt="FT family cartoon" 
- style="width: 300px;"/>
+ style="width: 500px;"/>
