@@ -12,11 +12,16 @@ layout: default
 ### Modules
 {: .modules}
 
-* __Module 0:__ Review.
-* __Module 1:__ Introduction.
+* __Module 0:__ Review
+* __Module 1:__ Introduction
 * __Module 2:__ Sampling and Reconstruction
-  - 
-  -
+* __Module 3:__ DT Signals and Systems
+* __Module 4:__ Frequency-Domain Representation of DT Signals
+* __Module 5:__ Correlation Receivers and Matched Filters
+* __Module 6:__ Z Transform
+* __Module 7:__ DFT and Spectral Analysis
+* __Module 8:__ DT Filters
+* __Module 8:__ Filter Realizations
  
   
 ### Cartoons
