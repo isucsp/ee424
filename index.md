@@ -16,4 +16,19 @@ layout: default
 * __Module 1:__ Introduction.
 * __Module 2:__ Sampling and Reconstruction
   - 
-  - 
+  -
+ 
+  
+### Cartoons
+{: .cartoons}
+How do you know this guy is insane?  
+
+<img src="graphics/cat.jpg" alt="cat cartoon" style="width: 400px;"/>
+
+Spectrum *not* symmetric, so cat must be imaginary.
+
+
+<br>
+
+ <img src="graphics/FTfamilycartoon.jpg" alt="FT family cartoon" 
+ style="width: 500px;"/>

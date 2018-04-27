@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### Web pages
+### Links 
 
 * [Canvas][canvas]{:target="_blank"}
    - will be used for class material and discussion; 
