@@ -13,6 +13,7 @@ layout: default
 {: .modules}
 
 * __Module 0:__ Review.
-* __Module 1:__ Sampling and Reconstruction
+* __Module 1:__ Introduction.
+* __Module 2:__ Sampling and Reconstruction
   - 
   - 
