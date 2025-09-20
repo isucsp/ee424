@@ -6,7 +6,7 @@ layout: default
 ---
 
 
-<h2>Fall 2024</h2>
+<h2>Fall 2025</h2>
 
 
 ### Modules
